@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Scoutbase is an initiative to ideate, create and conceptualize blockchain and public ledger initiatives focussed in the citizen-government management space.
 
-## Commands
+# Core Team
+_Core team and short profile to be updated_
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Approach
+_Detail some high level approach on working model i.e. ideate, proof, academic + industry participation etc_
