@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Overview\n\n\nScoutbase is an initiative to ideate, create and conceptualize blockchain and public ledger initiatives focussed in the citizen-government management space.\n\n\nCore Team\n\n\nCore team and short profile to be updated\n\n\nApproach\n\n\nDetail some high level approach on working model i.e. ideate, proof, academic + industry participation etc", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#overview", 
+            "text": "Scoutbase is an initiative to ideate, create and conceptualize blockchain and public ledger initiatives focussed in the citizen-government management space.", 
+            "title": "Overview"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#core-team", 
+            "text": "Core team and short profile to be updated", 
+            "title": "Core Team"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#approach", 
+            "text": "Detail some high level approach on working model i.e. ideate, proof, academic + industry participation etc", 
+            "title": "Approach"
         }
     ]
 }
